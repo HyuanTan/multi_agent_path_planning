@@ -1,0 +1,87 @@
+statistics:
+  success: 1
+  cost: 32
+  makespan: 10
+  runtime: 30.2765
+  highLevelExpanded: 3228
+  lowLevelExpanded: 2965960
+schedule:
+  agent0:
+    - v: '201'
+      t: 0
+    - v: '201'
+      t: 1
+    - v: 'P52-2'
+      t: 2
+    - v: 'P80'
+      t: 3
+    - v: 'P89'
+      t: 4
+    - v: 'P04'
+      t: 5
+    - v: 'P07'
+      t: 6
+    - v: 'P09'
+      t: 7
+    - v: 'P15'
+      t: 8
+    - v: '1010'
+      t: 9
+  agent1:
+    - v: '202'
+      t: 0
+    - v: 'P52-1'
+      t: 1
+    - v: 'P80'
+      t: 2
+    - v: 'P89'
+      t: 3
+    - v: 'P88'
+      t: 4
+    - v: 'P07'
+      t: 5
+    - v: 'P09'
+      t: 6
+    - v: 'P15'
+      t: 7
+    - v: '1008'
+      t: 8
+  agent3:
+    - v: '0502'
+      t: 0
+    - v: '0502'
+      t: 1
+    - v: 'P07'
+      t: 2
+    - v: 'P04'
+      t: 3
+    - v: 'H01'
+      t: 4
+    - v: 'H01'
+      t: 5
+    - v: 'P04'
+      t: 6
+    - v: 'P89'
+      t: 7
+    - v: 'P80'
+      t: 8
+    - v: 'P52-1'
+      t: 9
+    - v: '203'
+      t: 10
+  agent4:
+    - v: '0902'
+      t: 0
+    - v: 'P12'
+      t: 1
+    - v: 'P15'
+      t: 2
+    - v: '0908'
+      t: 3
+  agent5:
+    - v: '0609'
+      t: 0
+    - v: 'P07'
+      t: 1
+    - v: '0610'
+      t: 2

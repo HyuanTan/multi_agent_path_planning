@@ -1,0 +1,29 @@
+# Build outputs
+demo/
+build/
+install/
+devel/
+*.egg-info/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# KDevelop
+*.kdev4
+.kdev4/
+
+# Misc intermediate files
+*.o
+*.so
+*.a
+*.log
