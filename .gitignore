@@ -1,0 +1,6 @@
+
+# Raw demo videos
+warehouse/**/demo/**/*.mp4
+warehouse/**/*.mp4
+warehouse/**/*.mov
+warehouse/**/*.avi
