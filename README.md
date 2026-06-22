@@ -26,22 +26,29 @@ The warehouse map is modelled as a **directed graph** (roadmap): nodes are waypo
 
 ### CBSH2-RTC
 
-| | |
-|---|---|
-| ![](<warehouse/docs/demo_gif/CBSH2-RTC/2024-01-07 16-41-12.gif>) | ![](<warehouse/docs/demo_gif/CBSH2-RTC/2024-01-07 18-11-02.gif>) |
+<p align="center">
+<img src="warehouse/docs/demo_gif/CBSH2-RTC/2024-01-07 16-41-12.gif" width="48%" style="display:inline-block; margin:10px;"/>
+<img src="warehouse/docs/demo_gif/CBSH2-RTC/2024-01-07 18-11-02.gif" width="48%" style="display:inline-block; margin:10px;"/>
+</p>
 
 ### REC
 
-| | |
-|---|---|
-| ![09.06.2024_00.50.34](warehouse/docs/demo_gif/REC/09.06.2024_00.50.34_REC.gif) | ![09.06.2024_10.21.48](warehouse/docs/demo_gif/REC/09.06.2024_10.21.48_REC.gif) |
+<p align="center">
+<img src="warehouse/docs/demo_gif/REC/09.06.2024_00.50.34_REC.gif" width="48%" style="display:inline-block; margin:10px;"/>
+<img src="warehouse/docs/demo_gif/REC/09.06.2024_10.21.48_REC.gif" width="48%" style="display:inline-block; margin:10px;"/>
+</p>
 
 ### Old map
 
-| | |
-|---|---|
-| ![](<warehouse/docs/demo_gif/old_map/2023-12-16 16-35-38（2、3-1）.gif>) | ![](<warehouse/docs/demo_gif/old_map/2023-12-18 23-00-26（0、1-3）.gif>) |
-| ![](<warehouse/docs/demo_gif/old_map/2023-12-24 13-49-57(2.3-1).gif>) | ![](<warehouse/docs/demo_gif/old_map/2023-12-24 14-19-00(0-1).gif>) |
+<p align="center">
+<img src="warehouse/docs/demo_gif/old_map/2023-12-16 16-35-38（2、3-1）.gif" width="48%" style="display:inline-block; margin:10px;"/>
+<img src="warehouse/docs/demo_gif/old_map/2023-12-18 23-00-26（0、1-3）.gif" width="48%" style="display:inline-block; margin:10px;"/>
+</p>
+
+<p align="center">
+<img src="warehouse/docs/demo_gif/old_map/2023-12-24 13-49-57(2.3-1).gif" width="48%" style="display:inline-block; margin:10px;"/>
+<img src="warehouse/docs/demo_gif/old_map/2023-12-24 14-19-00(0-1).gif" width="48%" style="display:inline-block; margin:10px;"/>
+</p>
 
 ---
 
