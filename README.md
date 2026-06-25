@@ -1,4 +1,7 @@
 # Multi-Agent Path Planning — Warehouse Research & Test
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HyuanTan.multi_agent_path_planning" alt="Repo Views" />
+</p>
 
 ## About
 
